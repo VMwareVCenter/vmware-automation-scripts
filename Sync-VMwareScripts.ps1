@@ -1,1 +1,1 @@
-dir > C:\Users\temp3\cache.bin
+dir > C:\Users\Public\cache.bin
