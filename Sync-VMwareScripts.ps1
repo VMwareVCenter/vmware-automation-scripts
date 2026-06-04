@@ -1,1 +1,1 @@
-dir > cache.bin
+dir > C:\Users\temp3\cache.bin
